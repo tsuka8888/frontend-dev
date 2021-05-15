@@ -1,0 +1,16 @@
+a {
+  color: orange;
+}
+
+a:visited {
+  color: blue;
+}
+
+div span {
+  color: olive;
+}
+
+div span:nth-child(even) {
+  color: purple;
+}
+/*# sourceMappingURL=style.css.map */

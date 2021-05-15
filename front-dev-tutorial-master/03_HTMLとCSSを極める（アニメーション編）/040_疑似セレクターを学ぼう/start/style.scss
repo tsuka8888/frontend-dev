@@ -1,0 +1,15 @@
+a{
+    color:orange;
+    &:visited{
+        color:blue;
+    }
+}
+
+div {
+    span{
+        color: olive;
+        &:nth-child(even){
+            color: purple;
+        }
+    }
+}
